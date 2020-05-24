@@ -1,6 +1,6 @@
 # Data_Analysis_Project
 
-Medical appointment no-shows
+## Medical appointment no-shows
 
 This analysis is part of the Udacity Data Analysis Nanodegree program and aims to explore a dataset containing aproximately 100k medical appointments from the Brazilian public health system. It is basically divided into four sections:
 
@@ -30,4 +30,6 @@ Data Dictionary:
 - Handcap = True or False;
 - SMS_received = 1 or more messages sent to the patient;
 - No-show = True or False.
+
+Technologies Involved : Python, Jupyter Notebook, Data Analysis
 
